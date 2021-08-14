@@ -1,3 +1,3 @@
-# Strapi application
+# Stream Scheduler API using Strapi
 
-A quick description of your strapi application
+Getting familiar with Strapi while building a stream scheduler app. 
